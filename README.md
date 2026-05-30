@@ -4,7 +4,7 @@ A small React project showcasing prospective customer segmentation for a digital
 Built with **React**, **Vite**, and **Tailwind CSS**.
 
 ## 🚀 Live Demo
-[Demo Link](https://your-deployment-url.com) <!-- replace with Vercel/Netlify link -->
+[Demo Link](https://basic-ui-project.netlify.app/)
 
 ## 🖼️ Screenshot
 ![UI Screenshot](screenshots/ui.png)
